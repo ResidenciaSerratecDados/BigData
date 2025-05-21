@@ -1,0 +1,25 @@
+python -m venv residenciadados //criar venv
+residenciadados\Scripts\activate // ativar venv
+deactivate //desativar venv
+pip install faker //instalação do faker
+pip freeze //instalar as bibliotecas faker e tzdata
+pip freeze > requirements.txt \\ criar requerimentos
+pip install -r requirements.txt // instalar requerimentos
+
+//bibliotecas de requirements.txt
+Faker==37.3.0
+tzdata==2025.2
+pyautogui
+selenium
+pandas
+numpy
+matplotlib
+scipy
+django
+anaconda
+
+//problemas remotos a serem resolvidos
+Set-ExecutionPolicy RemoteSigned
+Set-ExecutionPolicy RemoteSigned
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+ 

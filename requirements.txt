@@ -1,0 +1,10 @@
+Faker==37.3.0
+tzdata==2025.2
+pyautogui
+selenium
+pandas
+numpy
+matplotlib
+scipy
+django
+anaconda
