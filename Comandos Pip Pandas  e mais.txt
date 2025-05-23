@@ -1,0 +1,34 @@
+COMANDOS PIP PANDAS
+
+python.exe -m pip install --upgrade pip -> atualizar e instalar pandas
+pip install -U pip --user -> atualizar pandas
+pip version -> versao pip
+pip install pandas -> instalar pandas
+pip install --upgrade pandas -> atualizar pandas
+pip list -> versões de pacotes instalados geral
+
+https://colab.research.google.com/drive/1qcwefxGLiSuGbelgd07zklzxdZ-XjnNr
+
+pip install -r requirements.txt -> instalar packages no requerimento
+
+pip install virtualenv - instalar venv
+py -m venv .venv
+
+source ENV/bin/activate - ativar venv
+.venv\Scripts\activate
+
+ where python - verificar venv
+.venv\Scripts\python - deteminar caminho venv
+
+Colab:
+.dtype
+.shape
+.zeros
+.ones
+.empty
+.arange
+.random
+.split 
+.reshape
+.concatenate
+.describe
